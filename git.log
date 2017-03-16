@@ -1,0 +1,39 @@
+commit 0b024623786075c14569ecbc01e6a72322afc321
+Author: Faydin <faydin@student.tgm.ac.at>
+Date:   Thu Mar 16 11:02:52 2017 +0100
+
+    Kommentar eingefügt
+
+ src/fatih/Test3333.java | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 3426d164bb2c762db05a8dae6931d98370fba1a9
+Author: Faydin <faydin@student.tgm.ac.at>
+Date:   Thu Mar 16 10:57:37 2017 +0100
+
+    V00.03
+
+ src/fatih/Test3333.java | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 3031c6c58c9da37768719b7d0e0b1d51d5291c4d
+Author: Faydin <faydin@student.tgm.ac.at>
+Date:   Thu Mar 16 10:52:12 2017 +0100
+
+    V00.02
+
+ src/fatih/Test3333.java | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 2110be9eb08aad42a1838e399998259670aa6659
+Author: Faydin <faydin@student.tgm.ac.at>
+Date:   Thu Mar 16 10:51:24 2017 +0100
+
+    V00.01
+
+ .classpath                           |  6 ++++++
+ .gitignore                           |  1 +
+ .project                             | 17 +++++++++++++++++
+ .settings/org.eclipse.jdt.core.prefs | 11 +++++++++++
+ src/fatih/Test3333.java              |  9 +++++++++
+ 5 files changed, 44 insertions(+)
